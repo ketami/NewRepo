@@ -16,7 +16,7 @@ namespace WebApplication1
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            int i = 0;
+            int save;
         }
 
         public IConfiguration Configuration { get; }
